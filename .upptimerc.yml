@@ -11,7 +11,7 @@ sites:
     icon: https://static.otelseasy.com/skin/images/agent_login/logo.png
   - name: api
     url: https://availablehotelroomsapi.otelseasy.com/v1
-     expectedStatusCodes:
+    expectedStatusCodes:
       - 200
       - 201
       - 401
