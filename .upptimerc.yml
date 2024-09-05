@@ -15,8 +15,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   theme: night
-  cname: status.otelseasy.com
-  # baseUrl: /status
+  # cname: status.otelseasy.com
+  baseUrl: /status
   name: oe
   logoUrl: https://static.otelseasy.com/skin/images/agent_login/logo.png
   introTitle: "**Otelseasy** Top International Hotels and Corporate Partner Are Now Connected with otelseasy.com"
