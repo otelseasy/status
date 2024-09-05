@@ -15,7 +15,9 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   theme: night
-  baseUrl: /status
+  cname: status.otelseasy.com
+  # baseUrl: /status
+  name: oe
   logoUrl: https://static.otelseasy.com/skin/images/agent_login/logo.png
   introTitle: "**Otelseasy** Top International Hotels and Corporate Partner Are Now Connected with otelseasy.com"
   introMessage: The Otelseasy Status Page provides real-time updates on the availability and performance of our hotel booking platform and associated services. Here, you can monitor the operational status of key systems, receive alerts about any incidents or downtime, and view information on scheduled maintenance. This page ensures transparency by offering timely updates and maintaining a historical log of system health, keeping you informed and minimizing service disruption impacts.
