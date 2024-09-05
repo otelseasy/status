@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "2.44%",
-    "uptimeDay": "2.44%",
-    "uptimeWeek": "2.44%",
-    "uptimeMonth": "2.44%",
-    "uptimeYear": "2.44%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 977,
     "timeDay": 977,
     "timeWeek": 977,
     "timeMonth": 977,
     "timeYear": 977,
-    "dailyMinutesDown": {
-      "2024-09-05": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
