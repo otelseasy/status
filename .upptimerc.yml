@@ -10,7 +10,8 @@ sites:
     url: https://stage.otelseasy.com/
     icon: https://static.otelseasy.com/skin/images/agent_login/logo.png
   - name: api
-    url: https://availablehotelroomsapi.otelseasy.com/v1
+    url: $AVAIL_SITE
+    method: POST
     expectedStatusCodes:
       - 200
       - 201
