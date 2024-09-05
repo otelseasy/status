@@ -9,6 +9,12 @@ sites:
   - name: stage-otelseasy
     url: https://stage.otelseasy.com/
     icon: https://static.otelseasy.com/skin/images/agent_login/logo.png
+  - name: api
+    url: https://availablehotelroomsapi.otelseasy.com/v1
+     expectedStatusCodes:
+      - 200
+      - 201
+      - 401
 
 
 status-website:
@@ -19,13 +25,10 @@ status-website:
   # baseUrl: /status
   name: oe
   logoUrl: https://static.otelseasy.com/skin/images/agent_login/logo.png
-  introTitle: "**Otelseasy** Top International Hotels and Corporate Partner Are Now Connected with otelseasy.com"
-  introMessage: The Otelseasy Status Page provides real-time updates on the availability and performance of our hotel booking platform and associated services. Here, you can monitor the operational status of key systems, receive alerts about any incidents or downtime, and view information on scheduled maintenance. This page ensures transparency by offering timely updates and maintaining a historical log of system health, keeping you informed and minimizing service disruption impacts.
+  introTitle: "**Otelseasy**"
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER
     - title: Otelseasy
       href: https://otelseasy.com/
 
