@@ -4,18 +4,20 @@
     "url": "https://otelseasy.com/",
     "icon": "https://static.otelseasy.com/skin/images/agent_login/logo.png",
     "slug": "otelseasy",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.05%",
+    "uptimeDay": "98.27%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
     "time": 1423,
     "timeDay": 1349,
     "timeWeek": 1423,
     "timeMonth": 1423,
     "timeYear": 1423,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-07": 25
+    }
   },
   {
     "name": "stage-otelseasy",
