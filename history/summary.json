@@ -4,9 +4,9 @@
     "url": "https://otelseasy.com/",
     "icon": "https://static.otelseasy.com/skin/images/agent_login/logo.png",
     "slug": "otelseasy",
-    "status": "up",
+    "status": "down",
     "uptime": "98.30%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "98.30%",
     "uptimeMonth": "98.30%",
     "uptimeYear": "98.30%",
@@ -16,6 +16,7 @@
     "timeMonth": 1413,
     "timeYear": 1413,
     "dailyMinutesDown": {
+      "2024-09-10": 0,
       "2024-09-07": 118
     }
   },
