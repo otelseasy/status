@@ -33,5 +33,14 @@ status-website:
     - title: Otelseasy
       href: https://otelseasy.com/
 
+workflowschedule:
+  graphs: "0 */3 * * *"
+  responseTime: "0 */3 * * *"
+  staticSite: "0 */3 * * *"
+  summary: "0 */3 * * *"
+  updateTemplate: "0 */3 * * *"
+  updates: "0 */3 * * *"
+  uptime: "*/5 * * * *"
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
