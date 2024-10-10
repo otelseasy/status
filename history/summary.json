@@ -13,7 +13,7 @@
     "time": 1657,
     "timeDay": 1543,
     "timeWeek": 1397,
-    "timeMonth": 1763,
+    "timeMonth": 1778,
     "timeYear": 1657,
     "dailyMinutesDown": {
       "2024-09-17": 70,
@@ -29,19 +29,19 @@
     "url": "https://stage.otelseasy.com/",
     "icon": "https://static.otelseasy.com/skin/images/agent_login/logo.png",
     "slug": "stage-otelseasy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1421,
-    "timeDay": 1179,
-    "timeWeek": 1349,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "95.21%",
+    "uptimeWeek": "99.32%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.86%",
+    "time": 1420,
+    "timeDay": 1254,
+    "timeWeek": 1355,
     "timeMonth": 1408,
-    "timeYear": 1421,
+    "timeYear": 1420,
     "dailyMinutesDown": {
-      "2024-10-10": 0
+      "2024-10-10": 69
     }
   },
   {
