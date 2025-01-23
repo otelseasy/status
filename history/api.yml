@@ -1,7 +1,7 @@
 url: $AVAIL_SITE
-status: down
-code: 503
-responseTime: 1008
-lastUpdated: 2025-01-23T09:20:13.389Z
+status: up
+code: 401
+responseTime: 849
+lastUpdated: 2025-01-23T09:42:50.178Z
 startTime: 2024-09-05T09:10:44.220Z
 generator: Upptime <https://github.com/upptime/upptime>
