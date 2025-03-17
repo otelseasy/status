@@ -1,7 +1,7 @@
 url: $CM_STAGE_API
-status: down
-code: 503
-responseTime: 650
-lastUpdated: 2025-03-17T06:13:27.409Z
+status: up
+code: 200
+responseTime: 755
+lastUpdated: 2025-03-17T06:41:38.556Z
 startTime: 2024-11-25T11:07:07.811Z
 generator: Upptime <https://github.com/upptime/upptime>
