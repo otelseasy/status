@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 1473,
-    "timeDay": 1156,
-    "timeWeek": 1279,
-    "timeMonth": 1349,
-    "timeYear": 1473,
+    "time": 1472,
+    "timeDay": 1201,
+    "timeWeek": 1276,
+    "timeMonth": 1346,
+    "timeYear": 1472,
     "dailyMinutesDown": {
       "2025-01-23": 40,
       "2024-11-12": 46,
@@ -39,8 +39,8 @@
     "uptimeMonth": "98.23%",
     "uptimeYear": "99.58%",
     "time": 1306,
-    "timeDay": 1174,
-    "timeWeek": 1124,
+    "timeDay": 1155,
+    "timeWeek": 1125,
     "timeMonth": 1122,
     "timeYear": 1306,
     "dailyMinutesDown": {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 917,
-    "timeDay": 783,
-    "timeWeek": 890,
-    "timeMonth": 921,
-    "timeYear": 917,
+    "time": 916,
+    "timeDay": 820,
+    "timeWeek": 886,
+    "timeMonth": 919,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2025-01-23": 23
     }
@@ -79,14 +79,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "stage-channel-manager-api",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.28%",
+    "uptimeYear": "99.29%",
     "time": 768,
-    "timeDay": 790,
-    "timeWeek": 735,
+    "timeDay": 766,
+    "timeWeek": 736,
     "timeMonth": 730,
     "timeYear": 768,
     "dailyMinutesDown": {
@@ -96,5 +96,23 @@
       "2025-01-03": 273,
       "2025-01-02": 559
     }
+  },
+  {
+    "name": "channel manager api",
+    "url": "$CM_LIVE_API",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "channel-manager-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 631,
+    "timeDay": 631,
+    "timeWeek": 631,
+    "timeMonth": 631,
+    "timeYear": 631,
+    "dailyMinutesDown": {}
   }
 ]
