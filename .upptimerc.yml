@@ -22,6 +22,12 @@ sites:
     expectedStatusCodes:
       - 200
       - 201
+  - name: channel manager api
+    url: $CM_LIVE_API
+    method: GET
+    expectedStatusCodes:
+      - 200
+      - 201
 
 
 status-website:
