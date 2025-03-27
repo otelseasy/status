@@ -103,19 +103,19 @@
     "url": "$CM_LIVE_API",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "channel-manager-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 677,
-    "timeDay": 750,
-    "timeWeek": 685,
-    "timeMonth": 677,
-    "timeYear": 677,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 681,
+    "timeDay": 738,
+    "timeWeek": 688,
+    "timeMonth": 681,
+    "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-03-27": 0
+      "2025-03-27": 12
     }
   }
 ]
