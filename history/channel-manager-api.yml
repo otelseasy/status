@@ -1,7 +1,7 @@
 url: $CM_LIVE_API
-status: down
-code: 503
-responseTime: 625
-lastUpdated: 2025-04-03T07:13:27.354Z
+status: up
+code: 200
+responseTime: 843
+lastUpdated: 2025-04-03T09:38:14.531Z
 startTime: 2025-03-19T04:19:13.632Z
 generator: Upptime <https://github.com/upptime/upptime>
