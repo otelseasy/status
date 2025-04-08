@@ -16,18 +16,18 @@ sites:
       - 200
       - 201
       - 401
-  - name: stage channel manager api
-    url: $CM_STAGE_API
-    method: GET
-    expectedStatusCodes:
-      - 200
-      - 201
-  - name: channel manager api
-    url: $CM_LIVE_API
-    method: GET
-    expectedStatusCodes:
-      - 200
-      - 201
+  # - name: stage channel manager api
+  #   url: $CM_STAGE_API
+  #   method: GET
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 201
+  # - name: channel manager api
+  #   url: $CM_LIVE_API
+  #   method: GET
+  #   expectedStatusCodes:
+  #     - 200
+  #     - 201
 
 
 status-website:
