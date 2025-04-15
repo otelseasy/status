@@ -9,13 +9,14 @@ sites:
   - name: stage-otelseasy
     url: https://stage.otelseasy.com/
     icon: https://static.otelseasy.com/skin/images/agent_login/logo.png
-  - name: api
-    url: $AVAIL_SITE
-    method: POST
-    expectedStatusCodes:
-      - 200
-      - 201
-      - 401
+  # - name: api
+  #   url: $AVAIL_SITE
+  #   method: POST
+  #   expectedStatusCodes:
+  
+  #     - 200
+  #     - 201
+  #     - 401
   # - name: stage channel manager api
   #   url: $CM_STAGE_API
   #   method: GET
