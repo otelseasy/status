@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1153,
-    "timeDay": 1334,
-    "timeWeek": 840,
-    "timeMonth": 713,
+    "time": 1155,
+    "timeDay": 1692,
+    "timeWeek": 987,
+    "timeMonth": 743,
     "timeYear": 1078,
     "dailyMinutesDown": {
       "2025-06-05": 25,
@@ -32,16 +32,16 @@
     "icon": "https://static.otelseasy.com/skin/images/agent_login/logo.png",
     "slug": "stage-otelseasy",
     "status": "up",
-    "uptime": "98.59%",
+    "uptime": "98.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.46%",
-    "time": 1152,
-    "timeDay": 602,
-    "timeWeek": 704,
-    "timeMonth": 685,
-    "timeYear": 1116,
+    "time": 1151,
+    "timeDay": 727,
+    "timeWeek": 725,
+    "timeMonth": 683,
+    "timeYear": 1114,
     "dailyMinutesDown": {
       "2025-06-05": 24,
       "2025-04-15": 286,
@@ -56,8 +56,7 @@
       "2025-02-20": 459,
       "2025-01-24": 100,
       "2024-11-27": 123,
-      "2024-10-16": 15,
-      "2024-10-10": 164
+      "2024-10-16": 15
     }
   }
 ]
