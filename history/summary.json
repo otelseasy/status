@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.78%",
-    "time": 1145,
-    "timeDay": 1220,
-    "timeWeek": 1335,
-    "timeMonth": 1244,
-    "timeYear": 1024,
+    "uptimeYear": "98.80%",
+    "time": 1144,
+    "timeDay": 1081,
+    "timeWeek": 1320,
+    "timeMonth": 1274,
+    "timeYear": 1025,
     "dailyMinutesDown": {
       "2026-03-07": 32,
       "2026-03-06": 661,
@@ -36,18 +36,19 @@
     "icon": "https://static.otelseasy.com/skin/images/agent_login/logo.png",
     "slug": "stage-otelseasy",
     "status": "down",
-    "uptime": "92.42%",
+    "uptime": "92.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "88.15%",
-    "time": 950,
+    "uptimeYear": "88.06%",
+    "time": 949,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 850,
+    "timeYear": 852,
     "dailyMinutesDown": {
-      "2026-04-10": 175,
+      "2026-04-11": 159,
+      "2026-04-10": 1440,
       "2026-04-09": 1440,
       "2026-04-08": 1440,
       "2026-04-07": 1440,
@@ -92,8 +93,7 @@
       "2025-04-15": 286,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
-      "2025-04-12": 1440,
-      "2025-04-11": 1440
+      "2025-04-12": 1440
     }
   }
 ]
